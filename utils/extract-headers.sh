@@ -1,5 +1,5 @@
 #! /bin/sh
-
+#WHAT THE FUCK IS ANDROID ROOT HERE????
 error() {
     echo "Error: $1" >&2
 }
